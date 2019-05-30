@@ -1,2 +1,14 @@
 This is my new file that I created in the terminal and then
 edited using vs studio code.
+
+Steps:
+
+1. Create a fork
+2. copy clone https
+3. in terminal clone fork to terminal using https address
+4. create a branch from the master
+5 make changes in code editor
+6. add changes made in code editor in the terminal
+7. commit changes and make comments on them
+8. then push these commits to your repository
+make a pull request and add your pm to review
